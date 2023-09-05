@@ -40,5 +40,5 @@ void loop() {
   Serial.print("Yaw Angle: ");
   Serial.println(gyroZangle, 2); // Display angle with 2 decimal places
 
-  delay(10); // Adjust this delay as needed for your application
+  delay(10);
 }
